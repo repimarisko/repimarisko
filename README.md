@@ -43,7 +43,6 @@ I am always open to collaboration! If you have ideas, suggestions, or want to co
 ## 📬 Get in Touch
 
 If you're interested in discussing further, you can reach me through:
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 🐙 GitHub: [your-github](https://github.com/your-github)
+- 📧 Email: [your-email@example.com](mailto:repimarisko0201@gmail.com)
 
 Thank you for visiting my GitHub Dashboard! If you find my projects useful, don't forget to ⭐️ this repository! 🚀
