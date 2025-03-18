@@ -1,6 +1,4 @@
-# 📊 GitHub Dashboard
-
-Welcome to my **GitHub Dashboard!** This repository showcases various projects primarily focused on **Machine Learning and Quantum Physics**, along with **Python, data analysis, PHP (especially Yii2 Advanced), automation, and languages**. I am deeply passionate about exploring the intersection of AI and quantum computing to develop cutting-edge solutions.
+Welcome to my **GitHub!** This repository showcases various projects primarily focused on **Machine Learning and Quantum Physics**, along with **Python, data analysis, PHP (especially Yii2 Advanced), automation, and languages**. I am deeply passionate about exploring the intersection of AI and quantum computing to develop cutting-edge solutions.
 
 ## 🚀 Technologies I Work With
 
