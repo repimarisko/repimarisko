@@ -1,5 +1,13 @@
 # 👨‍💻 Welcome to my **GitHub!**
+## 🧠 Language & Frameworks
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Yii2](https://img.shields.io/badge/Yii2-4CAF50?style=flat&logo=php&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Quantum](https://img.shields.io/badge/Quantum-Computing-purple?style=flat)
+![AI](https://img.shields.io/badge/Artificial-Intelligence-9B59B6?style=flat)
 
 ---
 
