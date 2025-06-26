@@ -1,11 +1,5 @@
 # 👨‍💻 Welcome to my **GitHub!**
 
-![GitHub followers](https://img.shields.io/github/followers/repimarisko?label=Follow%20Me&style=social)
-![GitHub stars](https://img.shields.io/github/stars/repimarisko?style=social)
-![Top Language](https://img.shields.io/github/languages/top/repimarisko/your-repo-name?color=blue)
-![Repo Size](https://img.shields.io/github/repo-size/repimarisko/your-repo-name)
-![Last Commit](https://img.shields.io/github/last-commit/repimarisko/your-repo-name)
-![License](https://img.shields.io/github/license/repimarisko/your-repo-name)
 
 ---
 
