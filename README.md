@@ -7,7 +7,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Quantum](https://img.shields.io/badge/Quantum-Computing-purple?style=flat)
-![AI](https://img.shields.io/badge/Artificial-Intelligence-9B59B6?style=flat)
+![AI](https://img.shields.io/badge/Artificial-Intelligence-3776AB?style=flat)
 
 ---
 
