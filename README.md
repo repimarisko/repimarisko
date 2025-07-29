@@ -11,7 +11,7 @@
 
 ---
 
-This repository showcases various projects primarily focused on **Machine Learning and Quantum Physics**, along with **Python, data analysis, PHP (especially Yii2 Advanced), Laravel 12, automation, and languages**. I am deeply passionate about exploring the intersection of AI and quantum computing to develop cutting-edge solutions.
+This repository showcases various projects primarily focused on **Machine Learning and Quantum Physics**, along with **Python, data analysis, PHP, Laravel 12, automation, and languages**. I am deeply passionate about exploring the intersection of AI and quantum computing to develop cutting-edge solutions.
 
 ## 🚀 Technologies I Work With
 
@@ -34,7 +34,7 @@ This repository showcases various projects primarily focused on **Machine Learni
 ### 2️⃣ **Quantum Computing Exploration**
 - Simulation of quantum algorithms  
 - Implementation of Qiskit for quantum research  
-- Experiments with quantum entanglement and superposition  
+- Experiments with quantum entanglement and superposition in code  
 - Quantum cryptography and secure communication techniques  
 
 ### 3️⃣ **Automation & Data Analysis with Python**
@@ -51,7 +51,7 @@ This repository showcases various projects primarily focused on **Machine Learni
 ### 5️⃣ **Laravel 12 Web Application Development**
 - Clean and modern architecture using MVC  
 - Advanced Eloquent ORM with relationship modeling  
-- RESTful API and Sanctum-based authentication  
+- RESTful API and Sanctum-based and JWT authentication
 - Artisan command automation and queue management  
 - Built-in support for testing, validation, and migration  
 - Integration with Vue.js/React and real-time broadcasting  
